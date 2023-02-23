@@ -1,26 +1,26 @@
 [
     {
         "language": "HTML",
-        "done": true
+        "done": false
     },
     {
         "language": "CSS",
-        "done": true
+        "done": false
     },
     {
-        "language": "Responsive design",
-        "done": true
+        "language": "Responsive Design",
+        "done": false
     },
     {
         "language": "Javascript",
-        "done": true
+        "done": false
     },
     {
         "language": "PHP",
-        "done": true
+        "done": false
     },
     {
-        "language": "Laravael",
+        "language": "Laravel",
         "done": false
     }
 ]
